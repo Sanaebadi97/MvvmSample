@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MvvmSample</string>
+    <string name="add_phrase">Add Phrase</string>
+    <string name="no_data">NO DATA !!</string>
+</resources>
